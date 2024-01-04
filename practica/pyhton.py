@@ -1,3 +1,4 @@
+#a)	Escribir una función en Python que recorra los datos y agrupe los productos mediante su Ean en el siguiente diccionario 
 def agrupar_productos(datos_query):
     productos_agrupados = {}
 
